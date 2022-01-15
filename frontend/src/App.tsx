@@ -1,9 +1,10 @@
+import Navbar from "./Navbar";
 
 
 
 function App() {
   return (
-    <h1>Pagina Principal</h1>
+    <Navbar></Navbar>
   );
 }
 
